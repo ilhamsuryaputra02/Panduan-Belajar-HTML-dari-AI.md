@@ -121,3 +121,4 @@ Setelah kamu berhasil melihat hasilnya di browser, coba lakukan perubahan ini ag
 1. Ganti teks "Halo, nama saya..." dengan namamu sendiri.
 2. Tambahkan satu hobi lagi di dalam daftar `<li>...</li>`.
 3. Simpan perubahan tersebut, lalu **Refresh** (tekan F5) halaman browser kamu untuk melihat perubahannya.
+   
